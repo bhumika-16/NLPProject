@@ -32,7 +32,7 @@ const Content = ({ selectedFeature }) => {
 
   const [filtrationScores, setFiltrationScores] = useState([]);
 
-  const baseURL = 'https://5f69-34-139-157-225.ngrok-free.app';
+  const baseURL = 'https://a38c-34-145-7-72.ngrok-free.app';
   // Placeholder for the image source
  // Update this path to your image's location
   const generateImage = async (text, negativeText) => {
